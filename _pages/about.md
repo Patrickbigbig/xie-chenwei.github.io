@@ -1,5 +1,20 @@
 ---
 permalink: /
+title: "Hello there, I'am Chenwei"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am a cognitive neuroscientist of language trained in psycholinguistics/neurolinguistics and clinical linguistics. My research investigates Chinese sentence and lexical-semantic processing and how aging-related changes in declarative/procedural memory contribute to language attrition and production–comprehension asymmetries. Methodologically, I combine controlled behavioral experiments (lab and online) with rigorous statistical inference, and where applicable EEG/ERP, to develop mechanistic accounts of language–memory interactions.
+
+In parallel, I build data-centric resources and reproducible computational pipelines for Chinese lexical ambiguity research, using large language models (LLMs) as computational hypotheses and developing interpretable evaluation tasks and open datasets with transparent code and analysis reports. I am prepared to teach effectively in English at undergraduate and graduate levels, including courses in experimental methods, statistics for behavioral/data science, and NLP/LLM evaluation for language data.
+
+
+
+<!-- ---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -53,4 +68,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
