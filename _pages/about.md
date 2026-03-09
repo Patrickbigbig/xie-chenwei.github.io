@@ -7,11 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+🫆 About me
+======
 I am a cognitive neuroscientist of language trained in psycholinguistics/neurolinguistics and clinical linguistics. My research investigates Chinese sentence and lexical-semantic processing and how aging-related changes in declarative/procedural memory contribute to language attrition and production–comprehension asymmetries. Methodologically, I combine controlled behavioral experiments (lab and online) with rigorous statistical inference, and where applicable EEG/ERP, to develop mechanistic accounts of language–memory interactions.
 
 In parallel, I build data-centric resources and reproducible computational pipelines for Chinese lexical ambiguity research, using large language models (LLMs) as computational hypotheses and developing interpretable evaluation tasks and open datasets with transparent code and analysis reports. I am prepared to teach effectively in English at undergraduate and graduate levels, including courses in experimental methods, statistics for behavioral/data science, and NLP/LLM evaluation for language data.
 
-
+🔎 Research Interests 
+------
+Cognitive neuroscience of language; aging and language attrition; language–memory interactions; psycholinguistics; Chinese sentence and lexical-semantic processing; statistical modelling of behavioral/EEG data; reproducible research; Chinese NLP; lexical ambiguity and homonymy; human–LLM comparison; interpretable evaluation and benchmarking.
 
 <!-- ---
 permalink: /
