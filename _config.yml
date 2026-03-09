@@ -23,7 +23,7 @@ repository               : "Patrickbigbig/xie-chenwei.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chenwei_profile.png"
+  avatar           : "xiechenwei_profile.png"
   name             : "Chenwei Xie"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive neuroscience of language | aging & memory | Chinese lexical ambiguity | reproducible experiments + LLM evaluation."
